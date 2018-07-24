@@ -1,9 +1,9 @@
 rpctest
 =======
 
-[![Build Status](http://img.shields.io/travis/btcsuite/btcd.svg)](https://travis-ci.org/btcsuite/btcd)
+[![Build Status](http://img.shields.io/travis/red010b37/navd.svg)](https://travis-ci.org/red010b37/navd)
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
-[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/btcsuite/btcd/integration/rpctest)
+[![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](http://godoc.org/github.com/red010b37/navd/integration/rpctest)
 
 Package rpctest provides a btcd-specific RPC testing harness crafting and
 executing integration tests by driving a `btcd` instance via the `RPC`
@@ -20,7 +20,7 @@ systems/integration tests.
 ## Installation and Updating
 
 ```bash
-$ go get -u github.com/btcsuite/btcd/integration/rpctest
+$ go get -u github.com/red010b37/navd/integration/rpctest
 ```
 
 ## License
