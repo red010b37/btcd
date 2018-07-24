@@ -5,8 +5,8 @@
 package blockchain
 
 import (
-	"github.com/btcsuite/btcd/btcec"
-	"github.com/btcsuite/btcd/txscript"
+	"github.com/red010b37/navd/btcec"
+	"github.com/red010b37/navd/txscript"
 )
 
 // -----------------------------------------------------------------------------

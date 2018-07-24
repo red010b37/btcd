@@ -9,7 +9,7 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/btcsuite/btcd/txscript"
+	"github.com/red010b37/navd/txscript"
 )
 
 // TestCheckBlockScripts ensures that validating the all of the scripts in a

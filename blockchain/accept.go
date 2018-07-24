@@ -7,7 +7,7 @@ package blockchain
 import (
 	"fmt"
 
-	"github.com/btcsuite/btcd/database"
+	"github.com/red010b37/navd/database"
 	"github.com/btcsuite/btcutil"
 )
 

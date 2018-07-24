@@ -1,9 +1,9 @@
 indexers
 ========
 
-[![Build Status](https://travis-ci.org/btcsuite/btcd.png?branch=master)](https://travis-ci.org/btcsuite/btcd)
+[![Build Status](https://travis-ci.org/red010b37/navd.png?branch=master)](https://travis-ci.org/red010b37/navd)
 [![ISC License](http://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
-[![GoDoc](https://godoc.org/github.com/btcsuite/btcd/blockchain/indexers?status.png)](http://godoc.org/github.com/btcsuite/btcd/blockchain/indexers)
+[![GoDoc](https://godoc.org/github.com/red010b37/navd/blockchain/indexers?status.png)](http://godoc.org/github.com/red010b37/navd/blockchain/indexers)
 
 Package indexers implements optional block chain indexes.
 
@@ -23,7 +23,7 @@ via an RPC interface.
 ## Installation
 
 ```bash
-$ go get -u github.com/btcsuite/btcd/blockchain/indexers
+$ go get -u github.com/red010b37/navd/blockchain/indexers
 ```
 
 ## License
