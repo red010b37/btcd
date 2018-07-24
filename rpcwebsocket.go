@@ -22,13 +22,13 @@ import (
 
 	"golang.org/x/crypto/ripemd160"
 
-	"github.com/btcsuite/btcd/blockchain"
-	"github.com/btcsuite/btcd/btcjson"
-	"github.com/btcsuite/btcd/chaincfg"
-	"github.com/btcsuite/btcd/chaincfg/chainhash"
-	"github.com/btcsuite/btcd/database"
-	"github.com/btcsuite/btcd/txscript"
-	"github.com/btcsuite/btcd/wire"
+	"github.com/red010b37/navd/blockchain"
+	"github.com/red010b37/navd/btcjson"
+	"github.com/red010b37/navd/chaincfg"
+	"github.com/red010b37/navd/chaincfg/chainhash"
+	"github.com/red010b37/navd/database"
+	"github.com/red010b37/navd/txscript"
+	"github.com/red010b37/navd/wire"
 	"github.com/btcsuite/btcutil"
 	"github.com/btcsuite/websocket"
 )
