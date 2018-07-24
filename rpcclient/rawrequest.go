@@ -8,7 +8,7 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/btcsuite/btcd/btcjson"
+	"github.com/red010b37/navd/btcjson"
 )
 
 // FutureRawResult is a future promise to deliver the result of a RawRequest RPC
