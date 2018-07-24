@@ -11,7 +11,7 @@ import (
 	"strings"
 
 	"github.com/red010b37/navd/database"
-	"github.com/btcsuite/btclog"
+	"github.com/red010b37/btclog"
 	flags "github.com/jessevdk/go-flags"
 )
 

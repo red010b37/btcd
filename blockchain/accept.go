@@ -8,7 +8,7 @@ import (
 	"fmt"
 
 	"github.com/red010b37/navd/database"
-	"github.com/btcsuite/btcutil"
+	"github.com/red010b37/btcutil"
 )
 
 // maybeAcceptBlock potentially accepts a block into the block chain and, if

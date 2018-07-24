@@ -9,7 +9,7 @@ import (
 
 	"github.com/red010b37/navd/chaincfg"
 	"github.com/red010b37/navd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/red010b37/btcutil"
 )
 
 const (

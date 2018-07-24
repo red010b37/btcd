@@ -13,7 +13,7 @@ import (
 	"github.com/red010b37/navd/chaincfg/chainhash"
 	"github.com/red010b37/navd/txscript"
 	"github.com/red010b37/navd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/red010b37/btcutil"
 )
 
 // This example demonstrates creating a script which pays to a bitcoin address.

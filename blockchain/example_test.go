@@ -14,7 +14,7 @@ import (
 	"github.com/red010b37/navd/chaincfg"
 	"github.com/red010b37/navd/database"
 	_ "github.com/red010b37/navd/database/ffldb"
-	"github.com/btcsuite/btcutil"
+	"github.com/red010b37/btcutil"
 )
 
 // This example demonstrates how to create a new chain instance and use

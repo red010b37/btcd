@@ -11,7 +11,7 @@ import (
 	"github.com/red010b37/navd/blockchain"
 	"github.com/red010b37/navd/chaincfg/chainhash"
 	"github.com/red010b37/navd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/red010b37/btcutil"
 )
 
 // newHashFromStr converts the passed big-endian hex string into a

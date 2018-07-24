@@ -7,7 +7,7 @@ package mining
 import (
 	"github.com/red010b37/navd/blockchain"
 	"github.com/red010b37/navd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/red010b37/btcutil"
 )
 
 const (

@@ -16,7 +16,7 @@ import (
 	"github.com/red010b37/navd/chaincfg/chainhash"
 	"github.com/red010b37/navd/txscript"
 	"github.com/red010b37/navd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/red010b37/btcutil"
 )
 
 // solveBlock attempts to find a nonce which makes the passed block header hash
