@@ -15,7 +15,7 @@ import (
 	"github.com/red010b37/navd/chaincfg"
 	"github.com/red010b37/navd/database"
 	"github.com/red010b37/navd/database/ffldb"
-	"github.com/btcsuite/btcutil"
+	"github.com/red010b37/btcutil"
 )
 
 // dbType is the database type name for this driver.

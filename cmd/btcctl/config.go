@@ -14,7 +14,7 @@ import (
 	"strings"
 
 	"github.com/red010b37/navd/btcjson"
-	"github.com/btcsuite/btcutil"
+	"github.com/red010b37/btcutil"
 	flags "github.com/jessevdk/go-flags"
 )
 

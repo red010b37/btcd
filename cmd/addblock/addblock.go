@@ -13,7 +13,7 @@ import (
 	"github.com/red010b37/navd/blockchain/indexers"
 	"github.com/red010b37/navd/database"
 	"github.com/red010b37/navd/limits"
-	"github.com/btcsuite/btclog"
+	"github.com/red010b37/btclog"
 )
 
 const (

@@ -18,14 +18,14 @@ import (
 	"github.com/red010b37/navd/database"
 	"github.com/red010b37/navd/database/internal/treap"
 	"github.com/red010b37/navd/wire"
-	"github.com/btcsuite/btcutil"
-	"github.com/btcsuite/goleveldb/leveldb"
-	"github.com/btcsuite/goleveldb/leveldb/comparer"
-	ldberrors "github.com/btcsuite/goleveldb/leveldb/errors"
-	"github.com/btcsuite/goleveldb/leveldb/filter"
-	"github.com/btcsuite/goleveldb/leveldb/iterator"
-	"github.com/btcsuite/goleveldb/leveldb/opt"
-	"github.com/btcsuite/goleveldb/leveldb/util"
+	"github.com/red010b37/btcutil"
+	"github.com/red010b37/goleveldb/leveldb"
+	"github.com/red010b37/goleveldb/leveldb/comparer"
+	ldberrors "github.com/red010b37/goleveldb/leveldb/errors"
+	"github.com/red010b37/goleveldb/leveldb/filter"
+	"github.com/red010b37/goleveldb/leveldb/iterator"
+	"github.com/red010b37/goleveldb/leveldb/opt"
+	"github.com/red010b37/goleveldb/leveldb/util"
 )
 
 const (

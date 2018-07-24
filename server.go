@@ -36,8 +36,8 @@ import (
 	"github.com/red010b37/navd/peer"
 	"github.com/red010b37/navd/txscript"
 	"github.com/red010b37/navd/wire"
-	"github.com/btcsuite/btcutil"
-	"github.com/btcsuite/btcutil/bloom"
+	"github.com/red010b37/btcutil"
+	"github.com/red010b37/btcutil/bloom"
 )
 
 const (

@@ -27,8 +27,8 @@ import (
 	"github.com/red010b37/navd/database"
 	_ "github.com/red010b37/navd/database/ffldb"
 	"github.com/red010b37/navd/mempool"
-	"github.com/btcsuite/btcutil"
-	"github.com/btcsuite/go-socks/socks"
+	"github.com/red010b37/btcutil"
+	"github.com/red010b37/go-socks/socks"
 	flags "github.com/jessevdk/go-flags"
 )
 

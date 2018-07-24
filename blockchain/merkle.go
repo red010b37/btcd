@@ -11,7 +11,7 @@ import (
 
 	"github.com/red010b37/navd/chaincfg/chainhash"
 	"github.com/red010b37/navd/txscript"
-	"github.com/btcsuite/btcutil"
+	"github.com/red010b37/btcutil"
 )
 
 const (

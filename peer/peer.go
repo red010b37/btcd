@@ -21,7 +21,7 @@ import (
 	"github.com/red010b37/navd/chaincfg"
 	"github.com/red010b37/navd/chaincfg/chainhash"
 	"github.com/red010b37/navd/wire"
-	"github.com/btcsuite/go-socks/socks"
+	"github.com/red010b37/go-socks/socks"
 	"github.com/davecgh/go-spew/spew"
 )
 

@@ -40,8 +40,8 @@ import (
 	"github.com/red010b37/navd/peer"
 	"github.com/red010b37/navd/txscript"
 	"github.com/red010b37/navd/wire"
-	"github.com/btcsuite/btcutil"
-	"github.com/btcsuite/websocket"
+	"github.com/red010b37/btcutil"
+	"github.com/red010b37/websocket"
 )
 
 // API version constants

@@ -24,8 +24,8 @@ import (
 	"time"
 
 	"github.com/red010b37/navd/btcjson"
-	"github.com/btcsuite/go-socks/socks"
-	"github.com/btcsuite/websocket"
+	"github.com/red010b37/go-socks/socks"
+	"github.com/red010b37/websocket"
 )
 
 var (

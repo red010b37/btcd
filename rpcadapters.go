@@ -13,7 +13,7 @@ import (
 	"github.com/red010b37/navd/netsync"
 	"github.com/red010b37/navd/peer"
 	"github.com/red010b37/navd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/red010b37/btcutil"
 )
 
 // rpcPeer provides a peer for use with the RPC server and implements the

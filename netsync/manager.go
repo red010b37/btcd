@@ -18,7 +18,7 @@ import (
 	"github.com/red010b37/navd/mempool"
 	peerpkg "github.com/red010b37/navd/peer"
 	"github.com/red010b37/navd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/red010b37/btcutil"
 )
 
 const (

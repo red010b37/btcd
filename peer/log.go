@@ -12,7 +12,7 @@ import (
 	"github.com/red010b37/navd/chaincfg/chainhash"
 	"github.com/red010b37/navd/txscript"
 	"github.com/red010b37/navd/wire"
-	"github.com/btcsuite/btclog"
+	"github.com/red010b37/btclog"
 )
 
 const (

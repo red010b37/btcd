@@ -16,7 +16,7 @@ import (
 	"github.com/red010b37/navd/chaincfg/chainhash"
 	"github.com/red010b37/navd/peer"
 	"github.com/red010b37/navd/wire"
-	"github.com/btcsuite/go-socks/socks"
+	"github.com/red010b37/go-socks/socks"
 )
 
 // conn mocks a network connection by implementing the net.Conn interface.  It

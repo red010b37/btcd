@@ -12,7 +12,7 @@ import (
 	"github.com/red010b37/navd/btcjson"
 	"github.com/red010b37/navd/chaincfg/chainhash"
 	"github.com/red010b37/navd/wire"
-	"github.com/btcsuite/btcutil"
+	"github.com/red010b37/btcutil"
 )
 
 // SigHashType enumerates the available signature hashing types that the

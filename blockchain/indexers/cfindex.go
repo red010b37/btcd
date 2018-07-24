@@ -12,9 +12,9 @@ import (
 	"github.com/red010b37/navd/chaincfg/chainhash"
 	"github.com/red010b37/navd/database"
 	"github.com/red010b37/navd/wire"
-	"github.com/btcsuite/btcutil"
-	"github.com/btcsuite/btcutil/gcs"
-	"github.com/btcsuite/btcutil/gcs/builder"
+	"github.com/red010b37/btcutil"
+	"github.com/red010b37/btcutil/gcs"
+	"github.com/red010b37/btcutil/gcs/builder"
 )
 
 const (
